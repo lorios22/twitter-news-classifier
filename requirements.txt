@@ -1,0 +1,57 @@
+# Core Dependencies
+python-dotenv>=1.0.0
+tweepy>=4.14.0
+openai>=0.28.0
+asyncio>=3.4.3
+
+# Web Scraping & Content Analysis
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+html2text>=2020.1.16
+aiohttp>=3.8.0
+
+# PDF Processing
+PyPDF2>=3.0.0
+pdfplumber>=0.9.0
+
+# Image Processing & Analysis
+Pillow>=10.0.0
+opencv-python>=4.8.0
+pytesseract>=0.3.10
+
+# Data Processing
+pandas>=2.0.0
+numpy>=1.24.0
+
+# Text Processing
+nltk>=3.8.0
+textblob>=0.17.0
+spacy>=3.6.0
+
+# Network & Utilities
+urllib3>=1.26.0
+chardet>=5.0.0
+python-magic>=0.4.27
+
+# Date & Time
+python-dateutil>=2.8.0
+
+# Logging & Monitoring
+colorlog>=6.7.0
+
+# JSON & Serialization
+orjson>=3.9.0
+
+# Type Checking (Development)
+mypy>=1.5.0
+types-requests>=2.31.0
+
+# Testing (Development)
+pytest>=7.4.0
+pytest-asyncio>=0.21.0
+pytest-mock>=3.11.0
+
+# Development Tools
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0 
