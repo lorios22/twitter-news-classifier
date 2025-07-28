@@ -1,336 +1,268 @@
-# 🐦 Twitter News Classifier v4.0
+# 🐦 Twitter News Classifier v4.0 - Separated Workflow
 
 ## 🎯 What Is This?
 
-The **Twitter News Classifier** is an advanced AI-powered system designed to automatically analyze, classify, and score cryptocurrency and blockchain news content from trusted Twitter accounts. Using 12 specialized AI agents working in collaboration, it provides comprehensive insights into the quality, accuracy, and relevance of social media news content.
+The **Twitter News Classifier** is an advanced AI-powered system designed to automatically analyze, classify, and score cryptocurrency and blockchain news content from trusted Twitter accounts. The system now features a **robust two-phase architecture** that separates tweet extraction from analysis for maximum reliability and error recovery.
 
-### 🚀 Key Features
+## 🏗️ Two-Phase Architecture
 
-- **🤖 12 Specialized AI Agents**: Each agent focuses on a specific aspect of content analysis (fact-checking, relevance, depth, etc.)
-- **📊 Weighted Scoring System**: Prioritizes accuracy (18%) and relevance (15%) for reliable news classification
-- **🐦 Real Twitter API Integration**: Extracts live data from 48 trusted crypto/blockchain accounts
-- **🧵 Advanced Thread Analysis**: Captures complete conversation context and related tweets
-- **🖼️ Rich Media Analysis**: Analyzes images, external links, and multimedia content
-- **📈 Professional Reporting**: Generates both technical (JSON) and human-readable (Markdown) reports
-- **🏗️ Domain-Driven Design**: Clean, maintainable architecture with proper separation of concerns
+### 📡 Phase 1: Tweet Extraction
+- **Independent tweet data extraction** from Twitter API
+- **Comprehensive metadata collection** (users, threads, media, URLs)
+- **Error-resistant data persistence** - extracted data is preserved even if analysis fails
+- **Thread detection and context extraction**
+- **Media and URL content analysis**
 
-## 🎯 Who Is This For?
+### 🤖 Phase 2: Multi-Agent Analysis  
+- **12 specialized AI agents** working in collaboration
+- **Processes pre-extracted tweet data** with robust error handling
+- **API failure recovery** with retry logic and batch processing
+- **Weighted scoring consolidation** with importance prioritization
+- **Comprehensive result integration**
 
-- **📊 Crypto Investors**: Stay informed about market-moving news with quality scoring
-- **🔬 Researchers**: Analyze social media trends and sentiment in crypto/blockchain space
-- **📰 Content Creators**: Find high-quality, verified information for content creation
-- **💼 Financial Analysts**: Get comprehensive data about social media news impact
-- **🏛️ Institutions**: Monitor trusted sources for investment and research decisions
+## 🚀 Key Features
 
-## 🚀 Quick Start
+### ✅ Enhanced Reliability
+- **Independent phase processing** - extraction and analysis run separately
+- **Data preservation** - tweets remain saved even if analysis fails
+- **API failure tolerance** - robust error handling with retry mechanisms
+- **Workflow recovery** - can resume analysis from extracted data
 
-### Prerequisites
+### 🤖 AI-Powered Analysis
+- **12 Specialized Agents**: Summary, Preprocessor, Context Evaluator, Fact Checker, Depth Analyzer, Relevance Analyzer, Structure Analyzer, Reflective Agent, Metadata Ranking, Consensus Agent, Score Consolidator, Validator
+- **Weighted Scoring System** with importance prioritization
+- **Real-time content analysis** with comprehensive scoring
 
-- Python 3.8 or higher
-- Twitter API v2 access (Essential tier or higher)
-- OpenAI API access with GPT-4 capabilities
-- 8GB+ RAM for optimal performance
+### 🐦 Twitter Integration
+- **Twitter API v2** with comprehensive field extraction
+- **Real thread detection** and full context extraction
+- **Media content analysis** (images, videos, GIFs)
+- **URL extraction and content analysis**
+- **User metadata and credibility assessment**
 
-### Installation
+### 🏗️ Clean Architecture
+- **Domain-Driven Design (DDD)** structure
+- **Separation of concerns** with clear service boundaries
+- **Comprehensive error handling** and logging
+- **Modular and testable** codebase
 
-1. **Clone the repository**:
-```bash
-git clone https://github.com/your-username/twitter-news-classifier.git
-cd twitter-news-classifier
-```
-
-2. **Install dependencies**:
-```bash
-pip install -r requirements.txt
-```
-
-3. **Configure environment variables**:
-Create a `.env` file in the project root:
-
-```bash
-# OpenAI Configuration
-OPENAI_API_KEY=sk-proj-your-openai-api-key
-
-# Twitter API Configuration
-TWITTER_BEARER_TOKEN=your-twitter-bearer-token
-TWITTER_API_KEY=your-twitter-consumer-key
-TWITTER_API_SECRET=your-twitter-consumer-secret
-TWITTER_ACCESS_TOKEN=your-twitter-access-token
-TWITTER_ACCESS_TOKEN_SECRET=your-twitter-access-token-secret
-
-# Optional Configuration
-MAX_TWEETS=30
-HOURS_BACK=24
-ENABLE_THREAD_ANALYSIS=true
-ENABLE_MEDIA_ANALYSIS=true
-```
-
-4. **Run the analysis**:
-```bash
-python main.py
-```
-
-## 🏗️ System Architecture
-
-### Domain-Driven Design Structure
-
-The system follows clean DDD principles with four distinct layers:
-
-```
-📁 Project Structure:
-├── main.py                          # 🚀 Application entry point
-├── domain/                         # 🧠 Core business logic
-│   ├── entities/                  # 📊 Business entities
-│   │   ├── tweet.py              # 🐦 Tweet domain model
-│   │   └── analysis_result.py    # 📋 Analysis result model
-│   └── services/                 # ⚙️ Domain services
-│       └── multi_agent_analyzer.py # 🤖 Multi-agent orchestration
-├── application/                   # 🎯 Application layer
-│   └── use_cases/               # 📋 Business use cases
-│       └── analyze_tweets_use_case.py # 🔄 Main workflow
-├── infrastructure/              # 🔧 Infrastructure layer
-│   ├── adapters/               # 🔌 External service adapters
-│   │   └── twitter_api_adapter.py # 🐦 Twitter API integration
-│   ├── repositories/           # 💾 Data persistence
-│   │   └── file_repository.py  # 📁 File-based storage
-│   └── prompts/               # 📝 AI agent prompts
-│       └── agent_prompts.py   # 🤖 Centralized prompt repository
-└── results/                   # 📊 Analysis output storage
-    └── runs/                 # 📅 Individual analysis runs
-```
-
-## 🤖 The 12 AI Agents
-
-### Scoring Weight Distribution
-
-Our multi-agent system uses a carefully balanced scoring approach:
+## 📊 The 12 AI Agents
 
 | Agent | Weight | Purpose |
 |-------|--------|---------|
-| **Fact Checker** | 18% | Accuracy verification and misinformation detection |
-| **Context Evaluator** | 15% | Content richness and completeness assessment |
-| **Relevance Analyzer** | 15% | Real-world importance and impact evaluation |
-| **Depth Analyzer** | 12% | Content complexity and analytical depth |
-| **Summary Agent** | 10% | Title generation and content summarization |
-| **Structure Analyzer** | 8% | Organization and presentation quality |
-| **Reflective Agent** | 7% | Critical thinking and bias detection |
-| **Metadata Ranking** | 6% | Source credibility and authority assessment |
+| **Summary Agent** | 10% | Title and abstract generation |
 | **Input Preprocessor** | 5% | Data quality and normalization |
-| **Consensus Agent** | 4% | Agreement and controversy evaluation |
+| **Context Evaluator** | 15% | Content context and richness assessment |
+| **Fact Checker** | 18% | Accuracy verification (highest importance) |
+| **Depth Analyzer** | 12% | Content complexity and analytical depth |
+| **Relevance Analyzer** | 15% | Real-world importance assessment |
+| **Structure Analyzer** | 8% | Content organization evaluation |
+| **Reflective Agent** | 7% | Meta-analysis and critical evaluation |
+| **Metadata Ranking Agent** | 6% | User credibility assessment |
+| **Consensus Agent** | 4% | Agreement and consensus evaluation |
+| **Score Consolidator** | 0% | Aggregated results calculation (meta-agent) |
+| **Validator** | 0% | Final validation and quality assurance (meta-agent) |
 
-### Agent Specializations
+## 🚀 Quick Start
 
-**🔍 Core Analysis Agents**:
-- **Summary Agent**: Creates compelling titles and comprehensive abstracts
-- **Fact Checker**: Verifies claims and identifies potential misinformation
-- **Context Evaluator**: Assesses information completeness and context richness
-- **Relevance Analyzer**: Evaluates real-world importance and practical impact
+### 1. Environment Setup
 
-**📊 Quality Assessment Agents**:
-- **Depth Analyzer**: Measures content complexity and analytical thoroughness
-- **Structure Analyzer**: Evaluates organization and presentation clarity
-- **Reflective Agent**: Provides critical thinking and alternative perspectives
-- **Consensus Agent**: Identifies controversial topics and agreement levels
+```bash
+# Clone the repository
+git clone <repository-url>
+cd twitter-news-classifier
 
-**🔧 Technical Agents**:
-- **Input Preprocessor**: Cleans and normalizes data for better analysis
-- **Metadata Ranking**: Assesses source credibility and author authority
-- **Score Consolidator**: Combines individual scores using weighted formula
-- **Validator**: Performs final quality assurance and error checking
+# Install dependencies
+pip install -r requirements.txt
 
-## 📊 Analysis Process
-
-### Step-by-Step Workflow
-
-1. **🐦 Data Extraction (5-10 minutes)**
-   - Connects to Twitter API v2
-   - Monitors 48 trusted crypto/blockchain accounts
-   - Extracts tweets with rich metadata, media, and thread context
-   - Smart rate limiting to respect API constraints
-
-2. **🔧 Content Preparation (1-2 minutes)**
-   - Normalizes and cleans extracted data
-   - Builds comprehensive context packages
-   - Prepares structured input for AI agents
-
-3. **🤖 Multi-Agent Analysis (15-20 minutes)**
-   - Sequential processing through 12 specialized agents
-   - Each agent provides detailed scoring and reasoning
-   - Comprehensive evaluation from multiple perspectives
-
-4. **📊 Score Consolidation (2-3 minutes)**
-   - Weighted combination of individual agent scores
-   - Final classification and quality assessment
-   - Confidence interval calculation
-
-5. **📋 Report Generation (1-2 minutes)**
-   - Individual tweet analysis reports (JSON + Markdown)
-   - Executive summary with key findings
-   - Organized storage in timestamped directories
-
-### Trusted Account Monitoring
-
-The system monitors **48 carefully curated accounts** representing:
-
-- **Protocol Foundations**: @ethereum, @solana, @chainlink, @cardano
-- **DeFi Platforms**: @Uniswap, @aave, @SushiSwap, @PancakeSwap  
-- **Infrastructure**: @Polygon, @arbitrum, @Optimism, @NEARProtocol
-- **Analytics**: @dune, @defipulse, @coinmetrics
-- **And 36 additional trusted crypto/blockchain sources**
-
-## ⚙️ Configuration
-
-### Analysis Parameters
-
-Adjust parameters in the `AnalysisConfig` within `main.py`:
-```python
-config = AnalysisConfig(
-    max_tweets=30,              # Number of tweets to analyze
-    hours_back=24,              # Time range (hours)
-    enable_thread_analysis=True, # Thread detection
-    enable_media_analysis=True,  # Media content analysis
-    save_individual_results=True # Individual reports
-)
+# Setup environment variables
+cp env_template.txt .env
+# Edit .env with your API keys
 ```
 
-### API Configuration
+### 2. Required API Keys
 
-**Twitter API v2 Requirements**:
-- Essential tier or higher
-- Full OAuth 2.0 credentials
-- Rate limits: 300 user lookups, 75 timeline requests per 15 minutes
+Create a `.env` file with:
 
-**OpenAI API Requirements**:
-- GPT-4 model access (recommended) or GPT-3.5-turbo (fallback)
-- Estimated usage: ~720,000 tokens per full analysis run
-- Cost estimation: ~$43 per run (GPT-4) or ~$0.80 per run (GPT-3.5-turbo)
+```env
+# Twitter API v2 Credentials
+TWITTER_API_KEY=your_twitter_api_key
+TWITTER_API_SECRET=your_twitter_api_secret
+TWITTER_ACCESS_TOKEN=your_access_token
+TWITTER_ACCESS_TOKEN_SECRET=your_access_token_secret
+TWITTER_BEARER_TOKEN=your_bearer_token
 
-### Logging & Monitoring
+# OpenAI API
+OPENAI_API_KEY=your_openai_api_key
+```
 
-Comprehensive logging is saved to `logs/` directory with detailed execution information including:
-- Real-time processing status
-- API rate limiting information
-- Individual agent performance metrics
-- Error handling and recovery actions
+### 3. Run Analysis
 
-## 🛠️ Development & Customization
+```bash
+# Execute the complete two-phase workflow
+python main.py
+```
 
-### Adding New Agents
-1. Create agent prompt in `infrastructure/prompts/agent_prompts.py`
-2. Add agent to the sequence in `domain/services/multi_agent_analyzer.py`
-3. Configure weight in the scoring system
+## 🎯 How the System Works
 
-### Extending Analysis
-- **New Data Structures**: Modify entities in `domain/entities/`
-- **New Workflows**: Add use cases in `application/use_cases/`
-- **External Services**: Create adapters in `infrastructure/adapters/`
+### Phase 1: Tweet Extraction
+1. **API Connection**: Connects to Twitter API v2 with comprehensive field extraction
+2. **Account Processing**: Processes 48 trusted crypto/blockchain accounts
+3. **Data Enhancement**: Adds thread context, media analysis, and URL extraction  
+4. **Data Persistence**: Saves all extracted data to JSON files with metadata
+5. **Error Handling**: Preserves data even if extraction encounters issues
 
-### Custom Account Lists
-Edit the `TRUSTED_ACCOUNTS` list in `main.py` to monitor different Twitter accounts or expand to new crypto/blockchain verticals.
+### Phase 2: Multi-Agent Analysis
+1. **Data Loading**: Loads pre-extracted tweet data from JSON files
+2. **Batch Processing**: Processes tweets in configurable batches
+3. **Agent Execution**: Each of 12 agents analyzes the content independently
+4. **Error Recovery**: Implements retry logic for API failures
+5. **Score Consolidation**: Combines agent scores using weighted importance
+6. **Result Integration**: Merges analysis results with original tweet data
 
-## 📈 Performance & Monitoring
+## 📂 Architecture Overview
 
-### System Performance
-- **Processing Speed**: ~30 seconds per tweet (12 agents)
-- **Total Analysis Time**: 20-35 minutes for 30 tweets
-- **Success Rate**: >95% under normal conditions
-- **Memory Usage**: ~500MB peak during processing
-- **Storage**: ~50KB per analyzed tweet
+```
+twitter-news-classifier/
+├── main.py                          # Main entry point (separated workflow)
+├── domain/                          # Core business logic
+│   ├── entities/                    # Business entities
+│   │   ├── tweet.py                # Tweet entity with full metadata
+│   │   └── analysis_result.py      # Analysis result structures
+│   └── services/                    # Domain services
+│       ├── tweet_extraction_service.py        # Phase 1: Tweet extraction
+│       ├── multi_agent_analysis_service.py    # Phase 2: Analysis processing
+│       └── multi_agent_analyzer.py            # Core multi-agent engine
+├── application/                     # Application layer
+│   └── orchestrators/              # Workflow orchestration
+│       └── twitter_analysis_orchestrator.py   # Main workflow manager
+├── infrastructure/                 # External integrations
+│   ├── adapters/                   # External service adapters
+│   │   └── twitter_api_adapter.py  # Twitter API integration
+│   ├── repositories/               # Data persistence
+│   │   └── file_repository.py      # File-based data storage
+│   └── prompts/                    # AI agent prompts
+│       └── agent_prompts.py        # Centralized agent prompts
+├── data/                           # Data directory
+│   └── workflow_runs/              # Workflow execution results
+├── logs/                           # Execution logs
+└── docs/                           # Documentation
+```
 
-### Cost Management
-- **Development**: Use GPT-3.5-turbo for testing (~$0.80 per run)
-- **Production**: GPT-4 for maximum accuracy (~$43 per run)
-- **Optimization**: Adjust `max_tweets` parameter for budget control
+## 📊 Sample Output Structure
 
-## 🔒 Security & Privacy
+### Workflow Results
+```
+data/workflow_runs/WORKFLOW_20241127_143022/
+├── extraction/                     # Phase 1 results
+│   ├── EXTRACTION_20241127_143022/
+│   │   ├── extracted_tweets.json   # All tweet data with metadata
+│   │   └── extraction_metadata.json # Extraction statistics
+├── analysis/                       # Phase 2 results  
+│   ├── ANALYSIS_20241127_143535/
+│   │   ├── integrated_analysis_results.json # Full analysis results
+│   │   ├── analysis_summary.json           # Analysis summary
+│   │   └── intermediate/                   # Individual tweet analyses
+└── workflow_result.json            # Complete workflow summary
+```
 
-### Data Protection
-- **API Key Management**: Secure environment variable configuration
-- **Rate Limiting**: Built-in Twitter API rate limit handling and respect
-- **Error Isolation**: Individual agent failures don't compromise entire analysis
-- **No Persistent Data**: Sensitive information is not stored long-term
+## 🔧 Configuration Options
 
-### Privacy Considerations
-- Only analyzes publicly available Twitter content
-- No personal data storage beyond public tweet metadata
-- Respects Twitter's Terms of Service and API usage policies
+### Workflow Configuration
+- **max_tweets**: Maximum tweets to extract (default: 30)
+- **hours_back**: Time window for extraction (default: 24 hours)  
+- **max_retries**: API failure retry attempts (default: 3)
+- **batch_size**: Analysis batch size (default: 5)
+- **continue_on_api_failure**: Whether to continue on errors (default: true)
 
-## 📋 Troubleshooting
+### Error Handling Features
+- **Independent phase processing** - extraction failure doesn't affect saved data
+- **Retry logic** with configurable delays and maximum attempts
+- **Data preservation** - extracted tweets saved regardless of analysis success
+- **Comprehensive logging** for debugging and monitoring
+
+## 🎯 Trusted Accounts
+
+The system analyzes content from 48 carefully selected crypto/blockchain Twitter accounts:
+
+**Key Figures**: VitalikButerin, naval, elonmusk, APompliano, aantonop
+**News Sources**: CoinDesk, cointelegraph, bitcoinmagazine  
+**Projects**: ethereum, solana, chainlink, Uniswap, aaveaave, MakerDAO
+**Analysts**: TheCryptoDog, DocumentingBTC, lopp, ErikVoorhees
+**Exchanges**: changpeng_cz, brian_armstrong, SBF_FTX
+**And many more trusted voices in the crypto/blockchain space**
+
+## 🛡️ Error Handling & Recovery
+
+### Extraction Phase Recovery
+- Twitter API rate limit handling
+- Network error resilience  
+- Partial data preservation
+- Comprehensive error logging
+
+### Analysis Phase Recovery
+- OpenAI API failure handling
+- Individual tweet retry logic
+- Batch processing with failure isolation
+- Intermediate result saving
+
+## 🔍 Monitoring & Logging
+
+- **Comprehensive logging** to `logs/` directory
+- **Real-time progress tracking** with detailed status updates
+- **Performance metrics** and execution statistics
+- **Error analysis** and debugging information
+- **Workflow summaries** with recommendations
+
+## 📈 Performance Characteristics
+
+- **Extraction**: ~2-5 minutes for 30 tweets (depending on API response times)
+- **Analysis**: ~15-30 minutes for 30 tweets (depending on OpenAI API response times)
+- **Total Workflow**: ~20-35 minutes for complete processing
+- **Error Recovery**: Automatic retry with exponential backoff
+- **Data Persistence**: All intermediate results saved for recovery
+
+## 🚨 Troubleshooting
 
 ### Common Issues
 
 1. **Twitter API Errors**
-   - ✅ Verify API credentials in `.env` file
-   - ✅ Check API plan limits (Essential or higher required)
-   - ✅ Ensure monitored accounts have recent activity
+   - Verify API credentials in `.env`
+   - Check API usage limits and quotas
+   - Ensure account has proper permissions
 
-2. **OpenAI API Errors**
-   - ✅ Verify API key validity and format
-   - ✅ Check usage limits and billing status
-   - ✅ Monitor rate limits during peak usage
+2. **OpenAI API Errors**  
+   - Verify OpenAI API key format
+   - Check account billing and usage limits
+   - Monitor rate limiting
 
-3. **Performance Issues**
-   - ✅ Install all requirements: `pip install -r requirements.txt`
-   - ✅ Check Python version (3.8+ required)
-   - ✅ Ensure adequate RAM (8GB+ recommended)
+3. **Extraction Successful, Analysis Failed**
+   - Check OpenAI API key and billing
+   - Review extracted data in `data/workflow_runs/`
+   - Re-run analysis phase with saved extraction data
 
-4. **Analysis Quality**
-   - ✅ Use GPT-4 for best results
-   - ✅ Verify account list contains active accounts
-   - ✅ Check time range settings (24 hours default)
+4. **No Tweets Extracted**
+   - Verify Twitter account usernames
+   - Check time window (hours_back parameter)
+   - Review API permissions
 
-### Debug Information
-- Check `logs/` directory for detailed execution logs
-- Review individual agent outputs in results for debugging
-- Monitor rate limiting messages for API optimization
+## 🔮 Roadmap
 
-## 🌟 Advanced Features
-
-### Thread Analysis
-- **Complete Context**: Extracts full conversation threads
-- **Relationship Mapping**: Identifies reply chains and mentions
-- **Context Preservation**: Maintains chronological order and relationships
-
-### Media Content Analysis
-- **Image Processing**: OCR and visual content analysis
-- **Link Analysis**: External URL content extraction and evaluation
-- **Rich Media Support**: Videos, documents, and multimedia content
-
-### Quality Assurance
-- **Multi-layer Validation**: Score consolidator and validator agents
-- **Consistency Checking**: Cross-agent validation and error detection
-- **Confidence Scoring**: Uncertainty quantification and reliability metrics
-
-## 🤝 Contributing
-
-We welcome contributions to improve the Twitter News Classifier:
-
-1. **Fork the repository**
-2. **Create a feature branch**: `git checkout -b feature/new-agent`
-3. **Make your changes** with proper documentation
-4. **Add tests** for new functionality
-5. **Submit a pull request** with detailed description
-
-### Development Guidelines
-- Follow DDD principles and existing architecture
-- Add comprehensive docstrings and comments
-- Include unit tests for new components
-- Update documentation for API changes
+- [ ] **Real-time Processing**: Live tweet stream analysis
+- [ ] **Enhanced Media Analysis**: Advanced image and video content analysis  
+- [ ] **Sentiment Tracking**: Historical sentiment analysis and trending
+- [ ] **Custom Agent Configuration**: User-defined agent weights and prompts
+- [ ] **API Rate Optimization**: Intelligent rate limiting and request batching
+- [ ] **Dashboard Interface**: Web-based monitoring and results visualization
 
 ## 📄 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🎯 Roadmap
+## 🤝 Contributing
 
-### Upcoming Features
-- **Real-time Stream Processing**: Live tweet analysis as they arrive
-- **Sentiment Analysis Integration**: Advanced emotional sentiment scoring
-- **Multi-language Support**: Analysis of non-English crypto content
-- **API Service Mode**: REST API for integration with other systems
-- **Custom Agent Framework**: User-defined analysis agents
-- **Historical Trend Analysis**: Long-term pattern recognition and insights
+Contributions are welcome! Please read the contributing guidelines and submit pull requests for any improvements.
 
 ---
 
-**Twitter News Classifier v4.0** - Powered by AI collaboration for deep crypto/blockchain news insights.
+**🐦 Twitter News Classifier v4.0** - Separating extraction from analysis for maximum reliability and error recovery.
