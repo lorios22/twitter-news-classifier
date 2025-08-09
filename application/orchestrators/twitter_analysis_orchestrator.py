@@ -23,10 +23,10 @@ from typing import Dict, List, Any, Optional, Tuple
 from dataclasses import dataclass, asdict
 from pathlib import Path
 
-from domain.services.tweet_extraction_service import TweetExtractionService, ExtractionConfig, ExtractionResult
-from domain.services.multi_agent_analysis_service import MultiAgentAnalysisService, AnalysisConfig
-from domain.services.multi_agent_analysis_service import AnalysisResult as ServiceAnalysisResult
-from domain.services.multi_agent_analyzer import MultiAgentAnalyzer
+from domain.services.core_analysis.tweet_extraction_service import TweetExtractionService, ExtractionConfig, ExtractionResult
+from domain.services.core_analysis.multi_agent_analysis_service import MultiAgentAnalysisService, AnalysisConfig
+from domain.services.core_analysis.multi_agent_analysis_service import AnalysisResult as ServiceAnalysisResult
+from domain.services.core_analysis.multi_agent_analyzer import MultiAgentAnalyzer
 from infrastructure.adapters.twitter_api_adapter import TwitterApiAdapter, TwitterApiConfig
 from infrastructure.repositories.file_repository import FileRepository
 

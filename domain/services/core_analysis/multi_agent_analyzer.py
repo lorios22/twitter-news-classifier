@@ -16,8 +16,8 @@ from typing import Dict, List, Any, Optional
 from enum import Enum
 from openai import AsyncOpenAI
 
-from ..entities.tweet import Tweet
-from ..entities.analysis_result import AnalysisResult, AnalysisStatus, MediaAnalysisResult, ThreadAnalysisResult
+from ...entities.tweet import Tweet
+from ...entities.analysis_result import AnalysisResult, AnalysisStatus, MediaAnalysisResult, ThreadAnalysisResult
 from infrastructure.prompts.agent_prompts import AgentPrompts
 
 

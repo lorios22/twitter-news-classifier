@@ -23,7 +23,7 @@ from typing import Dict, List, Any, Optional, Tuple
 from dataclasses import dataclass, asdict
 from pathlib import Path
 
-from ..entities.tweet import Tweet, UserMetadata, MediaAttachment, ThreadContext, ContentType
+from ...entities.tweet import Tweet, UserMetadata, MediaAttachment, ThreadContext, ContentType
 from infrastructure.adapters.twitter_api_adapter import TwitterApiAdapter
 from infrastructure.repositories.file_repository import FileRepository
 

@@ -22,8 +22,8 @@ from typing import Dict, List, Any, Optional, Tuple
 from dataclasses import dataclass, asdict
 from pathlib import Path
 
-from ..entities.tweet import Tweet
-from ..entities.analysis_result import AnalysisResult, AnalysisStatus, QualityLevel
+from ...entities.tweet import Tweet
+from ...entities.analysis_result import AnalysisResult, AnalysisStatus, QualityLevel
 from .multi_agent_analyzer import MultiAgentAnalyzer
 from infrastructure.repositories.file_repository import FileRepository
 
