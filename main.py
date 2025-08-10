@@ -122,9 +122,9 @@ async def load_tweets_data() -> List[Dict[str, Any]]:
             data = json.load(f)
             
         if isinstance(data, list):
-            return data[:30]  # Process up to 30 tweets for comprehensive analysis
+            return data[:25]  # Process up to 25 tweets for comprehensive analysis
         elif isinstance(data, dict) and 'tweets' in data:
-            return data['tweets'][:30]
+            return data['tweets'][:25]
         else:
             logger.warning("⚠️  Unexpected tweet data format, using sample data")
             return get_sample_tweets()

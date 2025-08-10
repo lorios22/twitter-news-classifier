@@ -1,0 +1,3052 @@
+[
+  {
+    "tweet_id": "1954586117287670000",
+    "text": "🚨 🚨 🚨  12,565 #ETH (53,197,052 USD) transferred from #FalconX to unknown wallet\n\nhttps://t.co/bNV0Z7uBWf",
+    "created_at": "2025-08-10T16:50:19+00:00",
+    "author_username": "whale_alert",
+    "author_id": "1039833297751302144",
+    "like_count": 105,
+    "retweet_count": 10,
+    "reply_count": 19,
+    "quote_count": 2,
+    "user_metadata": {
+      "user_id": "1039833297751302144",
+      "username": "whale_alert",
+      "display_name": "Whale Alert",
+      "created_at": "2018-09-12 11:09:12+00:00",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "public_metrics": {
+        "followers_count": 2801137,
+        "following_count": 13,
+        "tweet_count": 89943,
+        "listed_count": 13803,
+        "like_count": 74,
+        "media_count": 18
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954586117287670000",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.371799",
+    "engagement_score": 1.36,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954544091552723258",
+    "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  52,809 #ETH (219,901,031 USD) transferred from Coinbase Institutional to unknown new wallet\n\nhttps://t.co/3EufpmUvgf",
+    "created_at": "2025-08-10T14:03:19+00:00",
+    "author_username": "whale_alert",
+    "author_id": "1039833297751302144",
+    "like_count": 240,
+    "retweet_count": 25,
+    "reply_count": 47,
+    "quote_count": 5,
+    "user_metadata": {
+      "user_id": "1039833297751302144",
+      "username": "whale_alert",
+      "display_name": "Whale Alert",
+      "created_at": "2018-09-12 11:09:12+00:00",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "public_metrics": {
+        "followers_count": 2801137,
+        "following_count": 13,
+        "tweet_count": 89943,
+        "listed_count": 13803,
+        "like_count": 74,
+        "media_count": 18
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954544091552723258",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.371831",
+    "engagement_score": 3.17,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954524716716191967",
+    "text": "🚨 🚨 🚨 🚨 🚨  100,000,000 #USDT (100,028,750 USD) transferred from #Bitfinex to Tether Treasury\n\nhttps://t.co/jFwh5U7C6A",
+    "created_at": "2025-08-10T12:46:20+00:00",
+    "author_username": "whale_alert",
+    "author_id": "1039833297751302144",
+    "like_count": 273,
+    "retweet_count": 26,
+    "reply_count": 34,
+    "quote_count": 2,
+    "user_metadata": {
+      "user_id": "1039833297751302144",
+      "username": "whale_alert",
+      "display_name": "Whale Alert",
+      "created_at": "2018-09-12 11:09:12+00:00",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "public_metrics": {
+        "followers_count": 2801137,
+        "following_count": 13,
+        "tweet_count": 89943,
+        "listed_count": 13803,
+        "like_count": 74,
+        "media_count": 18
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954524716716191967",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.371841",
+    "engagement_score": 3.35,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954447013178753420",
+    "text": "🚨 🚨 🚨  11,888 #ETH (50,019,166 USD) transferred from unknown wallet to Coinbase Institutional\n\nhttps://t.co/gDooxZ9mgf",
+    "created_at": "2025-08-10T07:37:34+00:00",
+    "author_username": "whale_alert",
+    "author_id": "1039833297751302144",
+    "like_count": 214,
+    "retweet_count": 17,
+    "reply_count": 31,
+    "quote_count": 1,
+    "user_metadata": {
+      "user_id": "1039833297751302144",
+      "username": "whale_alert",
+      "display_name": "Whale Alert",
+      "created_at": "2018-09-12 11:09:12+00:00",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "public_metrics": {
+        "followers_count": 2801137,
+        "following_count": 13,
+        "tweet_count": 89943,
+        "listed_count": 13803,
+        "like_count": 74,
+        "media_count": 18
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954447013178753420",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.371849",
+    "engagement_score": 2.63,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954407053834731676",
+    "text": "🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨 🚨  1,999 #BTC (237,092,268 USD) transferred from unknown wallet to unknown new wallet\n\nhttps://t.co/tnr2P29DTH",
+    "created_at": "2025-08-10T04:58:47+00:00",
+    "author_username": "whale_alert",
+    "author_id": "1039833297751302144",
+    "like_count": 204,
+    "retweet_count": 21,
+    "reply_count": 22,
+    "quote_count": 1,
+    "user_metadata": {
+      "user_id": "1039833297751302144",
+      "username": "whale_alert",
+      "display_name": "Whale Alert",
+      "created_at": "2018-09-12 11:09:12+00:00",
+      "description": "Live reporting on large and interesting #blockchain transactions as they happen. Create your own alerts for over 100 coins on https://t.co/wQEfstUfLm",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1132579647374417921/9ifIGXEQ_normal.png",
+      "public_metrics": {
+        "followers_count": 2801137,
+        "following_count": 13,
+        "tweet_count": 89943,
+        "listed_count": 13803,
+        "like_count": 74,
+        "media_count": 18
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954407053834731676",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.371856",
+    "engagement_score": 2.48,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954588593751777589",
+    "text": "Your daily brew ☕ https://t.co/3sli9e4Qmc",
+    "created_at": "2025-08-10T17:00:09+00:00",
+    "author_username": "CoinMarketCap",
+    "author_id": "2260491445",
+    "like_count": 191,
+    "retweet_count": 27,
+    "reply_count": 97,
+    "quote_count": 3,
+    "user_metadata": {
+      "user_id": "2260491445",
+      "username": "CoinMarketCap",
+      "display_name": "CoinMarketCap",
+      "created_at": "2013-12-24 16:50:12+00:00",
+      "description": "#CMC is the world’s most trusted source for crypto data & insights. Have a question about crypto? Ask https://t.co/54uUtCrWHY",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1875098684469207040/IsOWDeZA_normal.jpg",
+      "public_metrics": {
+        "followers_count": 6856691,
+        "following_count": 506,
+        "tweet_count": 36845,
+        "listed_count": 20811,
+        "like_count": 13556,
+        "media_count": 9137
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954588593751777589",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.899308",
+    "engagement_score": 3.18,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954513103699235066",
+    "text": "🚨 Be aware of scammers!\n\n🔹 CoinMarketCap will NEVER DM you first. If you receive a message claiming to be from CMC &amp; asking for funds, it's a scam!\n\nAlways verify before sending out your funds! \n\nStay #SAFU",
+    "created_at": "2025-08-10T12:00:11+00:00",
+    "author_username": "CoinMarketCap",
+    "author_id": "2260491445",
+    "like_count": 134,
+    "retweet_count": 27,
+    "reply_count": 51,
+    "quote_count": 1,
+    "user_metadata": {
+      "user_id": "2260491445",
+      "username": "CoinMarketCap",
+      "display_name": "CoinMarketCap",
+      "created_at": "2013-12-24 16:50:12+00:00",
+      "description": "#CMC is the world’s most trusted source for crypto data & insights. Have a question about crypto? Ask https://t.co/54uUtCrWHY",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1875098684469207040/IsOWDeZA_normal.jpg",
+      "public_metrics": {
+        "followers_count": 6856691,
+        "following_count": 506,
+        "tweet_count": 36845,
+        "listed_count": 20811,
+        "like_count": 13556,
+        "media_count": 9137
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954513103699235066",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.899356",
+    "engagement_score": 2.13,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954467878708949009",
+    "text": "💡 Key Takeaways:\n\n🔹 Monitor Alpha point accumulation strategies as thresholds continue rising\n🔹 Track volume concentration patterns in established vs new tokens for rotation signals\n🔹 Consider extreme volatility risks, DarkStar's +4,865% weekly gain shows whipsaw potential.",
+    "created_at": "2025-08-10T09:00:29+00:00",
+    "author_username": "CoinMarketCap",
+    "author_id": "2260491445",
+    "like_count": 28,
+    "retweet_count": 4,
+    "reply_count": 8,
+    "quote_count": 0,
+    "user_metadata": {
+      "user_id": "2260491445",
+      "username": "CoinMarketCap",
+      "display_name": "CoinMarketCap",
+      "created_at": "2013-12-24 16:50:12+00:00",
+      "description": "#CMC is the world’s most trusted source for crypto data & insights. Have a question about crypto? Ask https://t.co/54uUtCrWHY",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1875098684469207040/IsOWDeZA_normal.jpg",
+      "public_metrics": {
+        "followers_count": 6856691,
+        "following_count": 506,
+        "tweet_count": 36845,
+        "listed_count": 20811,
+        "like_count": 13556,
+        "media_count": 9137
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954467794239844815",
+      "is_thread": true,
+      "in_reply_to_user_id": "2260491445",
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.899360",
+    "engagement_score": 0.4,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1954467866641850606",
+    "text": "💎 Alpha's Independent Momentum:\n\nTrump's 401(k) crypto executive order fuels broader regulatory optimism while Alpha outperforms during Bitcoin's consolidation phase. Altcoin Season Index holds at 38/100 confirming Bitcoin dominance, yet Alpha's 5.7% volume share despite 0.45%",
+    "created_at": "2025-08-10T09:00:26+00:00",
+    "author_username": "CoinMarketCap",
+    "author_id": "2260491445",
+    "like_count": 30,
+    "retweet_count": 4,
+    "reply_count": 3,
+    "quote_count": 0,
+    "user_metadata": {
+      "user_id": "2260491445",
+      "username": "CoinMarketCap",
+      "display_name": "CoinMarketCap",
+      "created_at": "2013-12-24 16:50:12+00:00",
+      "description": "#CMC is the world’s most trusted source for crypto data & insights. Have a question about crypto? Ask https://t.co/54uUtCrWHY",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1875098684469207040/IsOWDeZA_normal.jpg",
+      "public_metrics": {
+        "followers_count": 6856691,
+        "following_count": 506,
+        "tweet_count": 36845,
+        "listed_count": 20811,
+        "like_count": 13556,
+        "media_count": 9137
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954467794239844815",
+      "is_thread": true,
+      "in_reply_to_user_id": "2260491445",
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.899364",
+    "engagement_score": 0.37,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1954467853907935391",
+    "text": "🎯 How to Participate in Binance Alpha:\n\n🔹 Earn Alpha Points through holding/trading eligible Alpha tokens with consistent activity\n🔹 Rolling 15-day rule: only recent points count toward eligibility\n🔹 Monitor Binance News and official social accounts for project announcements",
+    "created_at": "2025-08-10T09:00:23+00:00",
+    "author_username": "CoinMarketCap",
+    "author_id": "2260491445",
+    "like_count": 13,
+    "retweet_count": 1,
+    "reply_count": 1,
+    "quote_count": 0,
+    "user_metadata": {
+      "user_id": "2260491445",
+      "username": "CoinMarketCap",
+      "display_name": "CoinMarketCap",
+      "created_at": "2013-12-24 16:50:12+00:00",
+      "description": "#CMC is the world’s most trusted source for crypto data & insights. Have a question about crypto? Ask https://t.co/54uUtCrWHY",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1875098684469207040/IsOWDeZA_normal.jpg",
+      "public_metrics": {
+        "followers_count": 6856691,
+        "following_count": 506,
+        "tweet_count": 36845,
+        "listed_count": 20811,
+        "like_count": 13556,
+        "media_count": 9137
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954467794239844815",
+      "is_thread": true,
+      "in_reply_to_user_id": "2260491445",
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:51.899366",
+    "engagement_score": 0.15,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1954079730367430983",
+    "text": "Many people have offered to help @GiggleAcademy. I have resisted so far, focusing on product dev. Now we feel the product, while still early, can be use more distribution.\n\nBe part of making free education available to everyone in the world. And be proud of yourself!🙏 https://t.co/Qj50gyp509",
+    "created_at": "2025-08-09T07:18:07+00:00",
+    "author_username": "cz_binance",
+    "author_id": "902926941413453824",
+    "like_count": 2093,
+    "retweet_count": 373,
+    "reply_count": 869,
+    "quote_count": 42,
+    "user_metadata": {
+      "user_id": "902926941413453824",
+      "username": "cz_binance",
+      "display_name": "CZ 🔶 BNB",
+      "created_at": "2017-08-30 16:12:13+00:00",
+      "description": "DM: https://t.co/ITLXkxWlol (fees go to charity)\n\n@BNBchain, @YZiLabs, @GiggleAcademy, ex-@binance.",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1930881353899479040/_es75ZP1_normal.jpg",
+      "public_metrics": {
+        "followers_count": 10105662,
+        "following_count": 1864,
+        "tweet_count": 6530,
+        "listed_count": 36427,
+        "like_count": 17220,
+        "media_count": 865
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954079730367430983",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:52.409285",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1953903999360418037",
+    "text": "A lot of people are buying. 😆",
+    "created_at": "2025-08-08T19:39:49+00:00",
+    "author_username": "cz_binance",
+    "author_id": "902926941413453824",
+    "like_count": 19091,
+    "retweet_count": 2606,
+    "reply_count": 3823,
+    "quote_count": 286,
+    "user_metadata": {
+      "user_id": "902926941413453824",
+      "username": "cz_binance",
+      "display_name": "CZ 🔶 BNB",
+      "created_at": "2017-08-30 16:12:13+00:00",
+      "description": "DM: https://t.co/ITLXkxWlol (fees go to charity)\n\n@BNBchain, @YZiLabs, @GiggleAcademy, ex-@binance.",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1930881353899479040/_es75ZP1_normal.jpg",
+      "public_metrics": {
+        "followers_count": 10105662,
+        "following_count": 1864,
+        "tweet_count": 6530,
+        "listed_count": 36427,
+        "like_count": 17220,
+        "media_count": 865
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1953903999360418037",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:52.409304",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1953782849951138081",
+    "text": "GPT explanation: https://t.co/1NGMJSGK24",
+    "created_at": "2025-08-08T11:38:25+00:00",
+    "author_username": "VitalikButerin",
+    "author_id": "295218901",
+    "like_count": 291,
+    "retweet_count": 72,
+    "reply_count": 90,
+    "quote_count": 3,
+    "user_metadata": {
+      "user_id": "295218901",
+      "username": "VitalikButerin",
+      "display_name": "vitalik.eth",
+      "created_at": "2011-05-08 16:03:03+00:00",
+      "description": "I choose balance. First-level balance.\n\nmi pinxe lo crino tcati\n\nhttps://t.co/gCQrmCb0ih",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1895872023944937472/Uoyc5-p8_normal.jpg",
+      "public_metrics": {
+        "followers_count": 5807700,
+        "following_count": 503,
+        "tweet_count": 20970,
+        "listed_count": 38290,
+        "like_count": 9937,
+        "media_count": 896
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1953782711807541727",
+      "is_thread": true,
+      "in_reply_to_user_id": "295218901",
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:52.932490",
+    "engagement_score": 4.56,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1953782711807541727",
+    "text": "It's interesting how Visa was created with decentralist ideals so similar to those that gave rise to modern DAOs, and yet today many of us perceive it as extractive and/or oppressive.\n\nCertainly some good insights to learn from there. https://t.co/EubXS9MqyC",
+    "created_at": "2025-08-08T11:37:52+00:00",
+    "author_username": "VitalikButerin",
+    "author_id": "295218901",
+    "like_count": 2003,
+    "retweet_count": 283,
+    "reply_count": 370,
+    "quote_count": 52,
+    "user_metadata": {
+      "user_id": "295218901",
+      "username": "VitalikButerin",
+      "display_name": "vitalik.eth",
+      "created_at": "2011-05-08 16:03:03+00:00",
+      "description": "I choose balance. First-level balance.\n\nmi pinxe lo crino tcati\n\nhttps://t.co/gCQrmCb0ih",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1895872023944937472/Uoyc5-p8_normal.jpg",
+      "public_metrics": {
+        "followers_count": 5807700,
+        "following_count": 503,
+        "tweet_count": 20970,
+        "listed_count": 38290,
+        "like_count": 9937,
+        "media_count": 896
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1953782711807541727",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:52.932595",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954574114544320953",
+    "text": "Important re timing of vehicle delivery https://t.co/3Cbxie1ajE",
+    "created_at": "2025-08-10T16:02:37+00:00",
+    "author_username": "elonmusk",
+    "author_id": "44196397",
+    "like_count": 8584,
+    "retweet_count": 1065,
+    "reply_count": 1055,
+    "quote_count": 50,
+    "user_metadata": {
+      "user_id": "44196397",
+      "username": "elonmusk",
+      "display_name": "Elon Musk",
+      "created_at": "2009-06-02 20:12:29+00:00",
+      "description": "",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "public_metrics": {
+        "followers_count": 224001083,
+        "following_count": 1182,
+        "tweet_count": 83214,
+        "listed_count": 163797,
+        "like_count": 162550,
+        "media_count": 4056
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954574114544320953",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.484887",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954573440234422752",
+    "text": "Our V7 foundation model, which finished pre-training last week, is natively multimodal. \n\nIt processes a video/audio bitstream directly, understanding it without converting it into anything, so, for example, it will finally understand nuances in how you speak that convey mood and",
+    "created_at": "2025-08-10T15:59:57+00:00",
+    "author_username": "elonmusk",
+    "author_id": "44196397",
+    "like_count": 2109,
+    "retweet_count": 326,
+    "reply_count": 388,
+    "quote_count": 56,
+    "user_metadata": {
+      "user_id": "44196397",
+      "username": "elonmusk",
+      "display_name": "Elon Musk",
+      "created_at": "2009-06-02 20:12:29+00:00",
+      "description": "",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "public_metrics": {
+        "followers_count": 224001083,
+        "following_count": 1182,
+        "tweet_count": 83214,
+        "listed_count": 163797,
+        "like_count": 162550,
+        "media_count": 4056
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954568060574077119",
+      "is_thread": true,
+      "in_reply_to_user_id": "44196397",
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.484897",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1954572282984071273",
+    "text": "😂 https://t.co/YMRGerOu0p",
+    "created_at": "2025-08-10T15:55:21+00:00",
+    "author_username": "elonmusk",
+    "author_id": "44196397",
+    "like_count": 32052,
+    "retweet_count": 2883,
+    "reply_count": 3103,
+    "quote_count": 168,
+    "user_metadata": {
+      "user_id": "44196397",
+      "username": "elonmusk",
+      "display_name": "Elon Musk",
+      "created_at": "2009-06-02 20:12:29+00:00",
+      "description": "",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "public_metrics": {
+        "followers_count": 224001083,
+        "following_count": 1182,
+        "tweet_count": 83214,
+        "listed_count": 163797,
+        "like_count": 162550,
+        "media_count": 4056
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954572282984071273",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.484900",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954571834692632718",
+    "text": "And then feed that back into training to improve the one-shot probability (obviously)",
+    "created_at": "2025-08-10T15:53:34+00:00",
+    "author_username": "elonmusk",
+    "author_id": "44196397",
+    "like_count": 1214,
+    "retweet_count": 162,
+    "reply_count": 184,
+    "quote_count": 8,
+    "user_metadata": {
+      "user_id": "44196397",
+      "username": "elonmusk",
+      "display_name": "Elon Musk",
+      "created_at": "2009-06-02 20:12:29+00:00",
+      "description": "",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "public_metrics": {
+        "followers_count": 224001083,
+        "following_count": 1182,
+        "tweet_count": 83214,
+        "listed_count": 163797,
+        "like_count": 162550,
+        "media_count": 4056
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954568060574077119",
+      "is_thread": true,
+      "in_reply_to_user_id": "44196397",
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.484903",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1954568060574077119",
+    "text": "Grok is one-shot coding increasingly complex video games. \n\nOur next update will actually *play* the game, look at the screen and adjust the code to improve both esthetics and playability. https://t.co/3ZVWv4QwJ7",
+    "created_at": "2025-08-10T15:38:34+00:00",
+    "author_username": "elonmusk",
+    "author_id": "44196397",
+    "like_count": 3951,
+    "retweet_count": 672,
+    "reply_count": 1050,
+    "quote_count": 77,
+    "user_metadata": {
+      "user_id": "44196397",
+      "username": "elonmusk",
+      "display_name": "Elon Musk",
+      "created_at": "2009-06-02 20:12:29+00:00",
+      "description": "",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1936002956333080576/kqqe2iWO_normal.jpg",
+      "public_metrics": {
+        "followers_count": 224001083,
+        "following_count": 1182,
+        "tweet_count": 83214,
+        "listed_count": 163797,
+        "like_count": 162550,
+        "media_count": 4056
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954568060574077119",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.484906",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954499956003291388",
+    "text": "If you don't stop buying Bitcoin, you won't stop making Money. https://t.co/G9S2gPO1t8",
+    "created_at": "2025-08-10T11:07:57+00:00",
+    "author_username": "saylor",
+    "author_id": "244647486",
+    "like_count": 16230,
+    "retweet_count": 1976,
+    "reply_count": 1112,
+    "quote_count": 353,
+    "user_metadata": {
+      "user_id": "244647486",
+      "username": "saylor",
+      "display_name": "Michael Saylor",
+      "created_at": "2011-01-29 20:11:04+00:00",
+      "description": "#Bitcoin is https://t.co/KbbYe745r3 | $BTC Hodler | @Strategy Founder & Chairman | bio https://t.co/9Zlq0oHqyh | $MSTR $STRC $STRK $STRF $STRD https://t.co/mrY77fmh0K",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1485632175932383235/8t0DGo6V_normal.jpg",
+      "public_metrics": {
+        "followers_count": 4517327,
+        "following_count": 752,
+        "tweet_count": 6495,
+        "listed_count": 25473,
+        "like_count": 8314,
+        "media_count": 1835
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954499956003291388",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.992919",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954258134207520995",
+    "text": "$STRC ‘Stretch’ is Short Duration, High-Yield Credit. https://t.co/UoflG0rsYG",
+    "created_at": "2025-08-09T19:07:02+00:00",
+    "author_username": "saylor",
+    "author_id": "244647486",
+    "like_count": 3783,
+    "retweet_count": 407,
+    "reply_count": 313,
+    "quote_count": 18,
+    "user_metadata": {
+      "user_id": "244647486",
+      "username": "saylor",
+      "display_name": "Michael Saylor",
+      "created_at": "2011-01-29 20:11:04+00:00",
+      "description": "#Bitcoin is https://t.co/KbbYe745r3 | $BTC Hodler | @Strategy Founder & Chairman | bio https://t.co/9Zlq0oHqyh | $MSTR $STRC $STRK $STRF $STRD https://t.co/mrY77fmh0K",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1485632175932383235/8t0DGo6V_normal.jpg",
+      "public_metrics": {
+        "followers_count": 4517327,
+        "following_count": 752,
+        "tweet_count": 6495,
+        "listed_count": 25473,
+        "like_count": 8314,
+        "media_count": 1835
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954258134207520995",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.992975",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954150325536858337",
+    "text": "I went looking for gold… and found something better. https://t.co/ve3ZQaNol6",
+    "created_at": "2025-08-09T11:58:38+00:00",
+    "author_username": "saylor",
+    "author_id": "244647486",
+    "like_count": 11124,
+    "retweet_count": 1078,
+    "reply_count": 1097,
+    "quote_count": 112,
+    "user_metadata": {
+      "user_id": "244647486",
+      "username": "saylor",
+      "display_name": "Michael Saylor",
+      "created_at": "2011-01-29 20:11:04+00:00",
+      "description": "#Bitcoin is https://t.co/KbbYe745r3 | $BTC Hodler | @Strategy Founder & Chairman | bio https://t.co/9Zlq0oHqyh | $MSTR $STRC $STRK $STRF $STRD https://t.co/mrY77fmh0K",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1485632175932383235/8t0DGo6V_normal.jpg",
+      "public_metrics": {
+        "followers_count": 4517327,
+        "following_count": 752,
+        "tweet_count": 6495,
+        "listed_count": 25473,
+        "like_count": 8314,
+        "media_count": 1835
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954150325536858337",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.992979",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1953838028595605677",
+    "text": "On @BloombergTV, I discuss the surge in Bitcoin Treasury Companies, the power of Digital Credit instruments like $STRK, $STRF, $STRD, and $STRC, and why Digital Gold outshines gold. https://t.co/XlZvMpAADO",
+    "created_at": "2025-08-08T15:17:41+00:00",
+    "author_username": "saylor",
+    "author_id": "244647486",
+    "like_count": 6417,
+    "retweet_count": 1253,
+    "reply_count": 519,
+    "quote_count": 64,
+    "user_metadata": {
+      "user_id": "244647486",
+      "username": "saylor",
+      "display_name": "Michael Saylor",
+      "created_at": "2011-01-29 20:11:04+00:00",
+      "description": "#Bitcoin is https://t.co/KbbYe745r3 | $BTC Hodler | @Strategy Founder & Chairman | bio https://t.co/9Zlq0oHqyh | $MSTR $STRC $STRK $STRF $STRD https://t.co/mrY77fmh0K",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1485632175932383235/8t0DGo6V_normal.jpg",
+      "public_metrics": {
+        "followers_count": 4517327,
+        "following_count": 752,
+        "tweet_count": 6495,
+        "listed_count": 25473,
+        "like_count": 8314,
+        "media_count": 1835
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1953838028595605677",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:53.992981",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954598029891183078",
+    "text": "There is something very important happening in finance.\n\nAn entire generation of young people who grew up on the internet are now ascending to positions of power and influence. They have access to capital and they have technology at their fingertips.\n\nThe speed at which they",
+    "created_at": "2025-08-10T17:37:39+00:00",
+    "author_username": "APompliano",
+    "author_id": "339061487",
+    "like_count": 198,
+    "retweet_count": 19,
+    "reply_count": 50,
+    "quote_count": 3,
+    "user_metadata": {
+      "user_id": "339061487",
+      "username": "APompliano",
+      "display_name": "Anthony Pompliano 🌪",
+      "created_at": "2011-07-20 14:43:36+00:00",
+      "description": "Entrepreneur, investor, and lifelong learner.\n\nDaily writing: https://t.co/tpCu2xhIBx\nDaily show: https://t.co/1LMzaU05hT \nPodcast: https://t.co/OaOmES2hv1 \nMy first book: https://t.co/2W94vXav7i",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1547787118243561478/PxWzJo1H_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1764958,
+        "following_count": 8021,
+        "tweet_count": 80380,
+        "listed_count": 18715,
+        "like_count": 324247,
+        "media_count": 6542
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954598029891183078",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:54.765492",
+    "engagement_score": 2.7,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954559404910514200",
+    "text": "Your life will dramatically improve if you can replace mindless scrolling with physical book reading.\n\nTry it for one week. Promise you won't regret it.",
+    "created_at": "2025-08-10T15:04:10+00:00",
+    "author_username": "APompliano",
+    "author_id": "339061487",
+    "like_count": 985,
+    "retweet_count": 71,
+    "reply_count": 129,
+    "quote_count": 10,
+    "user_metadata": {
+      "user_id": "339061487",
+      "username": "APompliano",
+      "display_name": "Anthony Pompliano 🌪",
+      "created_at": "2011-07-20 14:43:36+00:00",
+      "description": "Entrepreneur, investor, and lifelong learner.\n\nDaily writing: https://t.co/tpCu2xhIBx\nDaily show: https://t.co/1LMzaU05hT \nPodcast: https://t.co/OaOmES2hv1 \nMy first book: https://t.co/2W94vXav7i",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1547787118243561478/PxWzJo1H_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1764958,
+        "following_count": 8021,
+        "tweet_count": 80380,
+        "listed_count": 18715,
+        "like_count": 324247,
+        "media_count": 6542
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954559404910514200",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:54.765511",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954526628677107778",
+    "text": "Worth reading. https://t.co/jxOlMMSObt",
+    "created_at": "2025-08-10T12:53:56+00:00",
+    "author_username": "APompliano",
+    "author_id": "339061487",
+    "like_count": 137,
+    "retweet_count": 7,
+    "reply_count": 37,
+    "quote_count": 2,
+    "user_metadata": {
+      "user_id": "339061487",
+      "username": "APompliano",
+      "display_name": "Anthony Pompliano 🌪",
+      "created_at": "2011-07-20 14:43:36+00:00",
+      "description": "Entrepreneur, investor, and lifelong learner.\n\nDaily writing: https://t.co/tpCu2xhIBx\nDaily show: https://t.co/1LMzaU05hT \nPodcast: https://t.co/OaOmES2hv1 \nMy first book: https://t.co/2W94vXav7i",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1547787118243561478/PxWzJo1H_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1764958,
+        "following_count": 8021,
+        "tweet_count": 80380,
+        "listed_count": 18715,
+        "like_count": 324247,
+        "media_count": 6542
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954526628677107778",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:54.765520",
+    "engagement_score": 1.83,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954287018235580806",
+    "text": "One of the best follows on here is @PEoperator\n\nHe constantly shares real-world, applicable leadership lessons related to operating a business. \n\nThis type of content is what makes this platform so valuable.\n\nHighly recommend following him at @PEoperator",
+    "created_at": "2025-08-09T21:01:48+00:00",
+    "author_username": "APompliano",
+    "author_id": "339061487",
+    "like_count": 111,
+    "retweet_count": 16,
+    "reply_count": 45,
+    "quote_count": 3,
+    "user_metadata": {
+      "user_id": "339061487",
+      "username": "APompliano",
+      "display_name": "Anthony Pompliano 🌪",
+      "created_at": "2011-07-20 14:43:36+00:00",
+      "description": "Entrepreneur, investor, and lifelong learner.\n\nDaily writing: https://t.co/tpCu2xhIBx\nDaily show: https://t.co/1LMzaU05hT \nPodcast: https://t.co/OaOmES2hv1 \nMy first book: https://t.co/2W94vXav7i",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1547787118243561478/PxWzJo1H_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1764958,
+        "following_count": 8021,
+        "tweet_count": 80380,
+        "listed_count": 18715,
+        "like_count": 324247,
+        "media_count": 6542
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954287018235580806",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:54.765529",
+    "engagement_score": 1.75,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954253956793712839",
+    "text": "Full episode is here: https://t.co/AtnJAAxLAt",
+    "created_at": "2025-08-09T18:50:26+00:00",
+    "author_username": "APompliano",
+    "author_id": "339061487",
+    "like_count": 25,
+    "retweet_count": 4,
+    "reply_count": 11,
+    "quote_count": 0,
+    "user_metadata": {
+      "user_id": "339061487",
+      "username": "APompliano",
+      "display_name": "Anthony Pompliano 🌪",
+      "created_at": "2011-07-20 14:43:36+00:00",
+      "description": "Entrepreneur, investor, and lifelong learner.\n\nDaily writing: https://t.co/tpCu2xhIBx\nDaily show: https://t.co/1LMzaU05hT \nPodcast: https://t.co/OaOmES2hv1 \nMy first book: https://t.co/2W94vXav7i",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1547787118243561478/PxWzJo1H_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1764958,
+        "following_count": 8021,
+        "tweet_count": 80380,
+        "listed_count": 18715,
+        "like_count": 324247,
+        "media_count": 6542
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954253746638368988",
+      "is_thread": true,
+      "in_reply_to_user_id": "339061487",
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:54.765542",
+    "engagement_score": 0.4,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1954367032864260390",
+    "text": "I don't like self promo because I know how hubris can turn against you...but I've got to admit that Global Macro Investor is provably THE best performing research service over the last 20 yrs.\n\nIt's not for everyone  but can you afford not to have it?\n\nhttps://t.co/wEN8IMjsjs",
+    "created_at": "2025-08-10T02:19:45+00:00",
+    "author_username": "RaoulGMI",
+    "author_id": "2453385626",
+    "like_count": 455,
+    "retweet_count": 26,
+    "reply_count": 57,
+    "quote_count": 0,
+    "user_metadata": {
+      "user_id": "2453385626",
+      "username": "RaoulGMI",
+      "display_name": "Raoul Pal",
+      "created_at": "2014-04-19 16:15:17+00:00",
+      "description": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru. Get free RV access (click 🔗)",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1722258300665044992/bo9clXct_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1215948,
+        "following_count": 1489,
+        "tweet_count": 56651,
+        "listed_count": 18003,
+        "like_count": 105886,
+        "media_count": 3218
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954367032864260390",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.373905",
+    "engagement_score": 5.38,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954362420861792500",
+    "text": "At Global Macro investor (GMI) and in Real Vision Pro we called the start of the Banana Zone in August 2024.... but still we get \"wen banana\" which suggest you didn't follow the \"Don't Fuck This Up\" thesis and don't hold the top tokens...\n\nSince that date... almost exactly one",
+    "created_at": "2025-08-10T02:01:26+00:00",
+    "author_username": "RaoulGMI",
+    "author_id": "2453385626",
+    "like_count": 1564,
+    "retweet_count": 102,
+    "reply_count": 180,
+    "quote_count": 6,
+    "user_metadata": {
+      "user_id": "2453385626",
+      "username": "RaoulGMI",
+      "display_name": "Raoul Pal",
+      "created_at": "2014-04-19 16:15:17+00:00",
+      "description": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru. Get free RV access (click 🔗)",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1722258300665044992/bo9clXct_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1215948,
+        "following_count": 1489,
+        "tweet_count": 56651,
+        "listed_count": 18003,
+        "like_count": 105886,
+        "media_count": 3218
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954362420861792500",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.373928",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954323076474392882",
+    "text": "This is an incredible interview... well worth your time with @StevenBartlett and Mo Gawdat.\n\nAll part of The Exponential Age and The Economic Singularity.. the interview is easy to follow and deep in implication.\n\nhttps://t.co/3fpES6bAcB",
+    "created_at": "2025-08-09T23:25:05+00:00",
+    "author_username": "RaoulGMI",
+    "author_id": "2453385626",
+    "like_count": 781,
+    "retweet_count": 89,
+    "reply_count": 50,
+    "quote_count": 4,
+    "user_metadata": {
+      "user_id": "2453385626",
+      "username": "RaoulGMI",
+      "display_name": "Raoul Pal",
+      "created_at": "2014-04-19 16:15:17+00:00",
+      "description": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru. Get free RV access (click 🔗)",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1722258300665044992/bo9clXct_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1215948,
+        "following_count": 1489,
+        "tweet_count": 56651,
+        "listed_count": 18003,
+        "like_count": 105886,
+        "media_count": 3218
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954323076474392882",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.373936",
+    "engagement_score": 9.24,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954304419794723196",
+    "text": "Yup... and its financing our replacements via AI and robots... everything is demographics https://t.co/VQSq0mOurq",
+    "created_at": "2025-08-09T22:10:57+00:00",
+    "author_username": "RaoulGMI",
+    "author_id": "2453385626",
+    "like_count": 661,
+    "retweet_count": 41,
+    "reply_count": 40,
+    "quote_count": 1,
+    "user_metadata": {
+      "user_id": "2453385626",
+      "username": "RaoulGMI",
+      "display_name": "Raoul Pal",
+      "created_at": "2014-04-19 16:15:17+00:00",
+      "description": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru. Get free RV access (click 🔗)",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1722258300665044992/bo9clXct_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1215948,
+        "following_count": 1489,
+        "tweet_count": 56651,
+        "listed_count": 18003,
+        "like_count": 105886,
+        "media_count": 3218
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954304419794723196",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.373942",
+    "engagement_score": 7.43,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954272632200974651",
+    "text": "Just going through some bookmarked X posts for GMI and this one leapt out...🤔 https://t.co/09DKQ3OfIu",
+    "created_at": "2025-08-09T20:04:38+00:00",
+    "author_username": "RaoulGMI",
+    "author_id": "2453385626",
+    "like_count": 457,
+    "retweet_count": 17,
+    "reply_count": 53,
+    "quote_count": 0,
+    "user_metadata": {
+      "user_id": "2453385626",
+      "username": "RaoulGMI",
+      "display_name": "Raoul Pal",
+      "created_at": "2014-04-19 16:15:17+00:00",
+      "description": "Founder/CEO Global Macro Investor, @RealVision. Figuring things out at the nexus of Macro, Web3 & the Exponential Age. Not a guru. Get free RV access (click 🔗)",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1722258300665044992/bo9clXct_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1215948,
+        "following_count": 1489,
+        "tweet_count": 56651,
+        "listed_count": 18003,
+        "like_count": 105886,
+        "media_count": 3218
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954272632200974651",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.373948",
+    "engagement_score": 5.27,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954383621508505729",
+    "text": "Im a perfect 100 iq it is what it is",
+    "created_at": "2025-08-10T03:25:40+00:00",
+    "author_username": "Pentosh1",
+    "author_id": "1138993163706753029",
+    "like_count": 183,
+    "retweet_count": 2,
+    "reply_count": 10,
+    "quote_count": 0,
+    "user_metadata": {
+      "user_id": "1138993163706753029",
+      "username": "Pentosh1",
+      "display_name": "🐧 Pentoshi",
+      "created_at": "2019-06-13 02:15:06+00:00",
+      "description": "#bitcoin team @buildonbeam trading @dreamcashxyz",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1889187132151078912/Ea5ToaOZ_normal.jpg",
+      "public_metrics": {
+        "followers_count": 877786,
+        "following_count": 869,
+        "tweet_count": 2653,
+        "listed_count": 15211,
+        "like_count": 118482,
+        "media_count": 509
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954381397503930619",
+      "is_thread": true,
+      "in_reply_to_user_id": "1138993163706753029",
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.894754",
+    "engagement_score": 1.95,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1954381397503930619",
+    "text": "1% move on $BTC is $1,700 or almost half an eth",
+    "created_at": "2025-08-10T03:16:50+00:00",
+    "author_username": "Pentosh1",
+    "author_id": "1138993163706753029",
+    "like_count": 917,
+    "retweet_count": 31,
+    "reply_count": 82,
+    "quote_count": 3,
+    "user_metadata": {
+      "user_id": "1138993163706753029",
+      "username": "Pentosh1",
+      "display_name": "🐧 Pentoshi",
+      "created_at": "2019-06-13 02:15:06+00:00",
+      "description": "#bitcoin team @buildonbeam trading @dreamcashxyz",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1889187132151078912/Ea5ToaOZ_normal.jpg",
+      "public_metrics": {
+        "followers_count": 877786,
+        "following_count": 869,
+        "tweet_count": 2653,
+        "listed_count": 15211,
+        "like_count": 118482,
+        "media_count": 509
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954381397503930619",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.894769",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954321098184491011",
+    "text": "They will raise this same amount or more on Monday bc of where $eth is trading over the weekend. And then they will once again buy more eth \n\nSure maybe you can get a scalp in. Or you can just ride the trend. \n\nEither way. More big buys are coming again and again \n\nProbably https://t.co/cZDrUpnLVS",
+    "created_at": "2025-08-09T23:17:13+00:00",
+    "author_username": "Pentosh1",
+    "author_id": "1138993163706753029",
+    "like_count": 1055,
+    "retweet_count": 74,
+    "reply_count": 74,
+    "quote_count": 3,
+    "user_metadata": {
+      "user_id": "1138993163706753029",
+      "username": "Pentosh1",
+      "display_name": "🐧 Pentoshi",
+      "created_at": "2019-06-13 02:15:06+00:00",
+      "description": "#bitcoin team @buildonbeam trading @dreamcashxyz",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1889187132151078912/Ea5ToaOZ_normal.jpg",
+      "public_metrics": {
+        "followers_count": 877786,
+        "following_count": 869,
+        "tweet_count": 2653,
+        "listed_count": 15211,
+        "like_count": 118482,
+        "media_count": 509
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954321098184491011",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.894775",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954306703811293414",
+    "text": "$8888.88 🧲",
+    "created_at": "2025-08-09T22:20:02+00:00",
+    "author_username": "Pentosh1",
+    "author_id": "1138993163706753029",
+    "like_count": 1877,
+    "retweet_count": 90,
+    "reply_count": 125,
+    "quote_count": 12,
+    "user_metadata": {
+      "user_id": "1138993163706753029",
+      "username": "Pentosh1",
+      "display_name": "🐧 Pentoshi",
+      "created_at": "2019-06-13 02:15:06+00:00",
+      "description": "#bitcoin team @buildonbeam trading @dreamcashxyz",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1889187132151078912/Ea5ToaOZ_normal.jpg",
+      "public_metrics": {
+        "followers_count": 877786,
+        "following_count": 869,
+        "tweet_count": 2653,
+        "listed_count": 15211,
+        "like_count": 118482,
+        "media_count": 509
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954306703811293414",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:55.894780",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954520346440421596",
+    "text": "WuBlockchain Weekly (Aug 4–Aug 10): U.S. Tariffs Hit Asian Mining Rigs,  China Orders Brokerages to Curb Stablecoin Research, Hong Kong’s Stablecoin Frenzy May Cool Down, South Korea Launches Phase 2 Crypto Legislation, Philippines Blocks Major Exchanges, UAE &amp; Dubai Align on https://t.co/bMvyd6nBLx",
+    "created_at": "2025-08-10T12:28:58+00:00",
+    "author_username": "WuBlockchain",
+    "author_id": "111533746",
+    "like_count": 25,
+    "retweet_count": 5,
+    "reply_count": 11,
+    "quote_count": 1,
+    "user_metadata": {
+      "user_id": "111533746",
+      "username": "WuBlockchain",
+      "display_name": "Wu Blockchain",
+      "created_at": "2010-02-05 07:41:41+00:00",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "public_metrics": {
+        "followers_count": 542515,
+        "following_count": 883,
+        "tweet_count": 27684,
+        "listed_count": 5102,
+        "like_count": 430,
+        "media_count": 3890
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954520346440421596",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:56.404989",
+    "engagement_score": 0.42,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954507837197197722",
+    "text": "According to TRM Labs, the Embargo ransomware group has extorted over $34.2 million since April 2024, mainly targeting U.S. healthcare and manufacturing sectors. Around $18.8 million in ransom remains untraced, with some funds flowing through the sanctioned platform Cryptex net.",
+    "created_at": "2025-08-10T11:39:16+00:00",
+    "author_username": "WuBlockchain",
+    "author_id": "111533746",
+    "like_count": 23,
+    "retweet_count": 6,
+    "reply_count": 9,
+    "quote_count": 3,
+    "user_metadata": {
+      "user_id": "111533746",
+      "username": "WuBlockchain",
+      "display_name": "Wu Blockchain",
+      "created_at": "2010-02-05 07:41:41+00:00",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "public_metrics": {
+        "followers_count": 542515,
+        "following_count": 883,
+        "tweet_count": 27684,
+        "listed_count": 5102,
+        "like_count": 430,
+        "media_count": 3890
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954507837197197722",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:56.405029",
+    "engagement_score": 0.41,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954489815803818425",
+    "text": "KuCoin’s native token KCS jumped 15.43% in the past 24 hours, ranking among the top five gainers in the top 100 cryptocurrencies by market cap. Analysts attribute the rally to the launch of the KCS Loyalty Program, KuCoin’s strong market share growth in H1 2025, and positive",
+    "created_at": "2025-08-10T10:27:39+00:00",
+    "author_username": "WuBlockchain",
+    "author_id": "111533746",
+    "like_count": 44,
+    "retweet_count": 4,
+    "reply_count": 22,
+    "quote_count": 2,
+    "user_metadata": {
+      "user_id": "111533746",
+      "username": "WuBlockchain",
+      "display_name": "Wu Blockchain",
+      "created_at": "2010-02-05 07:41:41+00:00",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "public_metrics": {
+        "followers_count": 542515,
+        "following_count": 883,
+        "tweet_count": 27684,
+        "listed_count": 5102,
+        "like_count": 430,
+        "media_count": 3890
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954489815803818425",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:56.405036",
+    "engagement_score": 0.72,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954487326861824176",
+    "text": "El Salvador has passed a new law allowing licensed investment banks to hold Bitcoin on their balance sheets and offer crypto services to professional investors. The law distinguishes investment banks from traditional commercial banks and imposes high entry thresholds, including a https://t.co/Gawdq5H1s8",
+    "created_at": "2025-08-10T10:17:45+00:00",
+    "author_username": "WuBlockchain",
+    "author_id": "111533746",
+    "like_count": 45,
+    "retweet_count": 4,
+    "reply_count": 13,
+    "quote_count": 2,
+    "user_metadata": {
+      "user_id": "111533746",
+      "username": "WuBlockchain",
+      "display_name": "Wu Blockchain",
+      "created_at": "2010-02-05 07:41:41+00:00",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "public_metrics": {
+        "followers_count": 542515,
+        "following_count": 883,
+        "tweet_count": 27684,
+        "listed_count": 5102,
+        "like_count": 430,
+        "media_count": 3890
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954487326861824176",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:56.405041",
+    "engagement_score": 0.64,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954419216960139342",
+    "text": "Base recently marked its second anniversary. According to onbase data, over the past year, Base recorded 1.256 million active users (+1,280.6% YoY), 9.869 million total transactions (+2,049.6%), and nearly $4.5 billion in TVL. Meanwhile, network transaction fees dropped by 97.7%",
+    "created_at": "2025-08-10T05:47:07+00:00",
+    "author_username": "WuBlockchain",
+    "author_id": "111533746",
+    "like_count": 39,
+    "retweet_count": 5,
+    "reply_count": 16,
+    "quote_count": 5,
+    "user_metadata": {
+      "user_id": "111533746",
+      "username": "WuBlockchain",
+      "display_name": "Wu Blockchain",
+      "created_at": "2010-02-05 07:41:41+00:00",
+      "description": "Important Crypto News mainly Asia\nLead by Colin Wu 吴说\nMore Channels: https://t.co/EWW3fUtX5v \nContact: Tele colinwu1989 \nnon-financial advice",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1763570636201615360/fuFapqAI_normal.jpg",
+      "public_metrics": {
+        "followers_count": 542515,
+        "following_count": 883,
+        "tweet_count": 27684,
+        "listed_count": 5102,
+        "like_count": 430,
+        "media_count": 3890
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954419216960139342",
+      "is_thread": true,
+      "in_reply_to_user_id": null,
+      "thread_position": 1
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T14:51:56.405047",
+    "engagement_score": 0.65,
+    "has_media": false,
+    "is_thread_tweet": true
+  },
+  {
+    "tweet_id": "1954548367524008420",
+    "text": "Harvard owns more Bitcoin than Google shares https://t.co/nnI7TnUACs",
+    "created_at": "2025-08-10T14:20:19+00:00",
+    "author_username": "DocumentingBTC",
+    "author_id": "1337780902680809474",
+    "like_count": 709,
+    "retweet_count": 111,
+    "reply_count": 51,
+    "quote_count": 7,
+    "user_metadata": {
+      "user_id": "1337780902680809474",
+      "username": "DocumentingBTC",
+      "display_name": "Documenting ₿itcoin 📄",
+      "created_at": "2020-12-12 15:26:42+00:00",
+      "description": "Reposting the ₿est of ₿itcoin",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1083967,
+        "following_count": 1896,
+        "tweet_count": 7612,
+        "listed_count": 7584,
+        "like_count": 22608,
+        "media_count": 3770
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954548367524008420",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T15:06:53.516140",
+    "engagement_score": 8.78,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954545824370712698",
+    "text": "Bitcoin mines in Himalayan Mountains of Bhutan https://t.co/XLOLgzUg9N",
+    "created_at": "2025-08-10T14:10:12+00:00",
+    "author_username": "DocumentingBTC",
+    "author_id": "1337780902680809474",
+    "like_count": 338,
+    "retweet_count": 47,
+    "reply_count": 35,
+    "quote_count": 4,
+    "user_metadata": {
+      "user_id": "1337780902680809474",
+      "username": "DocumentingBTC",
+      "display_name": "Documenting ₿itcoin 📄",
+      "created_at": "2020-12-12 15:26:42+00:00",
+      "description": "Reposting the ₿est of ₿itcoin",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1083967,
+        "following_count": 1896,
+        "tweet_count": 7612,
+        "listed_count": 7584,
+        "like_count": 22608,
+        "media_count": 3770
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954545824370712698",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T15:06:53.516162",
+    "engagement_score": 4.24,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954543533056004422",
+    "text": "Bitcoin is the front page news story on Barron’s https://t.co/HsRzbDl7iD",
+    "created_at": "2025-08-10T14:01:06+00:00",
+    "author_username": "DocumentingBTC",
+    "author_id": "1337780902680809474",
+    "like_count": 421,
+    "retweet_count": 60,
+    "reply_count": 74,
+    "quote_count": 7,
+    "user_metadata": {
+      "user_id": "1337780902680809474",
+      "username": "DocumentingBTC",
+      "display_name": "Documenting ₿itcoin 📄",
+      "created_at": "2020-12-12 15:26:42+00:00",
+      "description": "Reposting the ₿est of ₿itcoin",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1083967,
+        "following_count": 1896,
+        "tweet_count": 7612,
+        "listed_count": 7584,
+        "like_count": 22608,
+        "media_count": 3770
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954543533056004422",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T15:06:53.516166",
+    "engagement_score": 5.62,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954207167554200034",
+    "text": "Next ₿itcoin Halving Progress \n▓▓▓▓▓░░░░░░░░░░░░░░░░ 33%\n      Loading…Please HODL\n\nCurrent Block: 909,292\nHalving Block: 1,050,000\nBlocks Remaining: 140,708\nDays Remaining: ~977 days",
+    "created_at": "2025-08-09T15:44:30+00:00",
+    "author_username": "DocumentingBTC",
+    "author_id": "1337780902680809474",
+    "like_count": 286,
+    "retweet_count": 74,
+    "reply_count": 27,
+    "quote_count": 2,
+    "user_metadata": {
+      "user_id": "1337780902680809474",
+      "username": "DocumentingBTC",
+      "display_name": "Documenting ₿itcoin 📄",
+      "created_at": "2020-12-12 15:26:42+00:00",
+      "description": "Reposting the ₿est of ₿itcoin",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1083967,
+        "following_count": 1896,
+        "tweet_count": 7612,
+        "listed_count": 7584,
+        "like_count": 22608,
+        "media_count": 3770
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954207167554200034",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T15:06:53.516170",
+    "engagement_score": 3.89,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1953657474914889852",
+    "text": "New Record Global Bitcoin Mining Hashrate\n935,000,000,000,000,000,000x per second https://t.co/gM9b15YMAK",
+    "created_at": "2025-08-08T03:20:13+00:00",
+    "author_username": "DocumentingBTC",
+    "author_id": "1337780902680809474",
+    "like_count": 830,
+    "retweet_count": 200,
+    "reply_count": 48,
+    "quote_count": 11,
+    "user_metadata": {
+      "user_id": "1337780902680809474",
+      "username": "DocumentingBTC",
+      "display_name": "Documenting ₿itcoin 📄",
+      "created_at": "2020-12-12 15:26:42+00:00",
+      "description": "Reposting the ₿est of ₿itcoin",
+      "verified": false,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1369025687743500288/-4tdBSu5_normal.jpg",
+      "public_metrics": {
+        "followers_count": 1083967,
+        "following_count": 1896,
+        "tweet_count": 7612,
+        "listed_count": 7584,
+        "like_count": 22608,
+        "media_count": 3770
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1953657474914889852",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T15:06:53.516173",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954560761977507937",
+    "text": "JUST IN: $119,000 Bitcoin 🚀 https://t.co/f2ctNPdgvj",
+    "created_at": "2025-08-10T15:09:34+00:00",
+    "author_username": "BitcoinMagazine",
+    "author_id": "361289499",
+    "like_count": 1838,
+    "retweet_count": 350,
+    "reply_count": 150,
+    "quote_count": 14,
+    "user_metadata": {
+      "user_id": "361289499",
+      "username": "BitcoinMagazine",
+      "display_name": "Bitcoin Magazine",
+      "created_at": "2011-08-24 15:14:54+00:00",
+      "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+      "public_metrics": {
+        "followers_count": 3809437,
+        "following_count": 1190,
+        "tweet_count": 41745,
+        "listed_count": 20063,
+        "like_count": 41859,
+        "media_count": 17656
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954560761977507937",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T15:06:54.027759",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954500697149571080",
+    "text": "JUST IN: Michael Saylor posted the Saylor #Bitcoin tracker again 👀           \n\nStrategy usually announces another BTC purchase the next day 🚀 https://t.co/6eyjgxQZvN",
+    "created_at": "2025-08-10T11:10:53+00:00",
+    "author_username": "BitcoinMagazine",
+    "author_id": "361289499",
+    "like_count": 2729,
+    "retweet_count": 491,
+    "reply_count": 189,
+    "quote_count": 15,
+    "user_metadata": {
+      "user_id": "361289499",
+      "username": "BitcoinMagazine",
+      "display_name": "Bitcoin Magazine",
+      "created_at": "2011-08-24 15:14:54+00:00",
+      "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+      "public_metrics": {
+        "followers_count": 3809437,
+        "following_count": 1190,
+        "tweet_count": 41745,
+        "listed_count": 20063,
+        "like_count": 41859,
+        "media_count": 17656
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954500697149571080",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T15:06:54.027796",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  },
+  {
+    "tweet_id": "1954283130325492099",
+    "text": "JUST IN: 🇺🇸 White House Crypto Council Executive Director Bo Hines steps down 👀 https://t.co/9cXEhOWP72",
+    "created_at": "2025-08-09T20:46:21+00:00",
+    "author_username": "BitcoinMagazine",
+    "author_id": "361289499",
+    "like_count": 1569,
+    "retweet_count": 302,
+    "reply_count": 194,
+    "quote_count": 20,
+    "user_metadata": {
+      "user_id": "361289499",
+      "username": "BitcoinMagazine",
+      "display_name": "Bitcoin Magazine",
+      "created_at": "2011-08-24 15:14:54+00:00",
+      "description": "The Most Trusted Voice In #Bitcoin 🟠 • Find us https://t.co/X4mXn4fvYQ",
+      "verified": true,
+      "profile_image_url": "https://pbs.twimg.com/profile_images/1444022922377576453/AzvXYXGr_normal.jpg",
+      "public_metrics": {
+        "followers_count": 3809437,
+        "following_count": 1190,
+        "tweet_count": 41745,
+        "listed_count": 20063,
+        "like_count": 41859,
+        "media_count": 17656
+      }
+    },
+    "media_attachments": {
+      "links_analyzed": [],
+      "images_analyzed": [],
+      "total_processing_time": 0.0,
+      "summary": {
+        "total_links_found": 0,
+        "total_images_found": 0,
+        "links_successfully_analyzed": 0,
+        "images_successfully_analyzed": 0,
+        "has_external_content": false,
+        "analysis_complete": true
+      },
+      "analysis_results": {
+        "type_detected": "unknown",
+        "size_info": "unknown",
+        "analyzed": true,
+        "media_url": null,
+        "preview_image_url": null
+      }
+    },
+    "external_links": [],
+    "thread_context": {
+      "conversation_id": "1954283130325492099",
+      "is_thread": false,
+      "in_reply_to_user_id": null,
+      "thread_position": null
+    },
+    "conversation_context": null,
+    "content_type": null,
+    "processing_timestamp": "2025-08-10T15:06:54.027800",
+    "engagement_score": 10.0,
+    "has_media": false,
+    "is_thread_tweet": false
+  }
+]

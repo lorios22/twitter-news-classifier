@@ -1,0 +1,58 @@
+{
+  "extraction_id": "EXTRACTION_20250810_145150",
+  "timestamp": "2025-08-10T15:06:54.035361",
+  "total_tweets": 50,
+  "extraction_stats": {
+    "successful_accounts": 20,
+    "failed_accounts": 0,
+    "accounts_processed": [
+      "whale_alert",
+      "CoinMarketCap",
+      "cz_binance",
+      "VitalikButerin",
+      "elonmusk",
+      "saylor",
+      "APompliano",
+      "RaoulGMI",
+      "pentosh1",
+      "WuBlockchain",
+      "DocumentingBTC",
+      "BitcoinMagazine",
+      "aantonop",
+      "naval",
+      "balajis",
+      "JustinSunTRX",
+      "CRO_Community",
+      "ethereum",
+      "solana",
+      "Polkadot"
+    ],
+    "accounts_failed": [],
+    "errors": []
+  },
+  "processing_stats": {
+    "tweets_extracted": 50,
+    "accounts_processed": 0,
+    "errors_encountered": 0,
+    "threads_detected": 9,
+    "media_analyzed": 50,
+    "urls_extracted": 0
+  },
+  "data_structure": {
+    "tweets_file": "extracted_tweets.json",
+    "format": "JSON array of Tweet entities",
+    "fields_included": [
+      "id",
+      "text",
+      "created_at",
+      "author_id",
+      "user_metadata",
+      "thread_context",
+      "media_attachments",
+      "extracted_urls",
+      "entities",
+      "public_metrics",
+      "context_annotations"
+    ]
+  }
+}
