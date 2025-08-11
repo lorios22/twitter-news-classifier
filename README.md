@@ -159,6 +159,7 @@ Each analysis generates a comprehensive JSON file containing:
 ### Technical Documentation
 - 📋 **[System Architecture V2.0](SYSTEM_ARCHITECTURE_V2.md)**: Comprehensive technical overview
 - 📝 **[Implementation Changelog](IMPLEMENTATION_CHANGELOG.md)**: Detailed change tracking
+- 🤖 **[Agent Reference Guide](AGENT_REFERENCE_GUIDE.md)**: Complete agent functions, APIs, and prompts
 - 🔧 **[API Reference](docs/API_REFERENCE.md)**: Complete method documentation
 
 ### Architectural Diagrams

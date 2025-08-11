@@ -427,6 +427,22 @@ python3 main.py
 - **Parallel processing** for larger tweet volumes
 - **Database integration** for historical analysis
 
+## 📚 Additional Documentation
+
+### Complete Reference Guides
+- 🤖 **[Agent Reference Guide](AGENT_REFERENCE_GUIDE.md)**: Complete documentation of all 17 agents including:
+  - Detailed function specifications for each agent
+  - Complete API and MCP integration details
+  - Full prompt reference for all agents
+  - Method signatures and response schemas
+  - Pattern detection algorithms and configurations
+
+### Quick Links
+- **Architecture Overview**: This document (SYSTEM_ARCHITECTURE_V2.md)
+- **Implementation Changes**: [IMPLEMENTATION_CHANGELOG.md](IMPLEMENTATION_CHANGELOG.md)
+- **Agent Functions & Prompts**: [AGENT_REFERENCE_GUIDE.md](AGENT_REFERENCE_GUIDE.md)
+- **System Execution**: [README.md](README.md)
+
 ---
 
 *Last Updated: August 10, 2025*  
